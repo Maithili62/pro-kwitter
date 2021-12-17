@@ -1,0 +1,21 @@
+body
+{
+background-image: url(ii.jpg);
+color: white;
+}
+.header
+{
+    color: white;
+    border: 10px;
+    border-color: red;
+    font-size: 100px;
+}
+color_white
+{
+    color: white;
+    font-size: 30px;
+}
+label
+{
+font-size: 25px;
+}
